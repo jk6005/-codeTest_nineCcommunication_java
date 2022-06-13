@@ -15,3 +15,6 @@ Git : jk6005, eae8633@naver.com
     1. 'data/top20.csv' 파일을 불러온다.
     2. 'result/top20.json' 파일로 저장한다.
     3. 'result/top20.json' 파일을 불러와 출력한다.
+
+
+![img.png](img.png)
